@@ -1,3 +1,4 @@
+# Author: Skyler Lovecraft. SkylerLovecraft@gmail.com
 <?php session_start(); ?>
 
 <html>
